@@ -1,0 +1,34 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "checklist_localizer"
+version = "${version}"
+displayName = "Checklist Localizer"
+authors = "TexTrue, LocalizedMC"
+description = '''
+Make Checklist support task localization!
+'''
+logoFile = ""
+
+[[dependencies.checklist_localizer]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.checklist_localizer]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.checklist_localizer]]
+modId = "checklist"
+mandatory = true
+versionRange = "*"
+ordering = "NONE"
+side = "CLIENT"

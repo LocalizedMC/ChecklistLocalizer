@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "org.localizedmc.checklistlocalizer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+    "TaskElementMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
