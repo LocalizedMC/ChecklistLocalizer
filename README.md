@@ -1,7 +1,7 @@
 <img height="120" src="src/main/resources/icon.png" width="120"/>
 
 # Checklist Localizer
-Make Checklist Mod support task localization!
+Make [Checklist](https://www.curseforge.com/minecraft/mc-mods/checklist) Mod support task localization!
 
 ### You can localize it in the following ways:
 
