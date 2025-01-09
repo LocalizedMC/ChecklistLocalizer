@@ -3,8 +3,10 @@
 # Checklist Localizer
 Make Checklist Mod support task localization!
 
-You can localize it in the following ways:
+### You can localize it in the following ways:
+
 First, create a new language file (e.g. `en_us.json`).
+
 Then you can use the text contents of `tasks.txt` as a translation key to write the language file. As shown below:
 ```json
 {
