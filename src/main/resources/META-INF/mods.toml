@@ -6,9 +6,10 @@ license = "LGPLv3"
 modId = "checklist_localizer"
 version = "${version}"
 displayName = "Checklist Localizer"
+displayURL = "https://github.com/LocalizedMC/ChecklistLocalizer"
 authors = "TexTrue, LocalizedMC"
 description = '''
-Make Checklist support task localization!
+Make Checklist Mod support task localization!
 '''
 logoFile = ""
 
