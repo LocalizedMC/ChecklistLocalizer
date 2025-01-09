@@ -11,7 +11,7 @@ authors = "TexTrue, LocalizedMC"
 description = '''
 Make Checklist Mod support task localization!
 '''
-logoFile = ""
+logoFile = "icon.png"
 
 [[dependencies.checklist_localizer]]
 modId = "forge"
