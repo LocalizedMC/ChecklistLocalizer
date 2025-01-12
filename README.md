@@ -5,6 +5,8 @@ Make [Checklist](https://www.curseforge.com/minecraft/mc-mods/checklist) Mod sup
 
 ### You can localize it in the following ways:
 
+LTDR: See [example](example)
+
 First, create a new language file (e.g. `en_us.json`).
 
 Then you can use the text contents of `tasks.txt` as a translation key to write the language file. As shown below:
