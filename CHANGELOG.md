@@ -1,2 +1,2 @@
 ## Changelog
-- first version
+- Fix crash if string is null
